@@ -1,9 +1,8 @@
-import Image from 'next/image'
+'use client'
 
 export default function Home() {
+
   return (
-    <div>
-      hello world
-    </div>
+    <div></div>
   )
 }
